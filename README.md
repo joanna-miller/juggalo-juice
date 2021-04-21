@@ -1,14 +1,14 @@
-# _Social Media Clone_
+# _Juggalo Juice_
 
-### By _**Jo Miller & Dani Renner**_
+### By _**Jo Miller & Zack Rutledge**_
 
 #### _This project was created solely for the education of the author(s) and is not in a complete or portfolio-ready state. It should not be considered representative of professional work._
 
 
-[Epicodus](https://www.epicodus.com/) - [React](https://www.learnhowtoprogram.com/ruby-and-rails/) - [Week 2](https://www.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone)
+[Epicodus](https://www.epicodus.com/) - [React](https://www.learnhowtoprogram.com/ruby-and-rails/) - [Week 2](https://www.learnhowtoprogram.com/react/react-fundamentals/help-queue-merch-site-event-logger-two-day-project)
 
 
-#### Date created: 04/19/2021
+#### Date created: 04/21/2021
 ---
 
 ## Technologies Used
@@ -24,11 +24,11 @@
 
 ## Description
 
-A mock up of a social media site using only React components. This site is not actually interactive and was to practice formatting a layout with React.
+A mock up of a merchandise site using only React components.
 
 ## Component Diagram
 
-<div><img src="src/img/socialMediaMockup.png" width = 800></div>
+<div><img src="src/img/component-diagram.png" width = 800></div>
 
 ---
 
@@ -36,13 +36,13 @@ A mock up of a social media site using only React components. This site is not a
 
 * You will need to use your system's **terminal emulator** to setup and locally use this application.
 * This project uses npm as a package manager, you can download it [here](https://www.npmjs.com/get-npm).
-* To clone this directory, navigate in your terminal to the desired location of the project and run command `git clone https://github.com/joanna-miller/social-media.git`
-* Navigate to top level of the directory with command `cd social-media`
+* To clone this directory, navigate in your terminal to the desired location of the project and run command `git clone https://github.com/joanna-miller/juggalo-juice.git`
+* Navigate to top level of the directory with command `cd juggalo-juice`
 * To install dependencies into the project run command `npm install`
 * To launch this project in a browser, run command `npm run start`
 * To exit live server, press Ctrl+C in your terminal
 
---- 
+---
 
 ## Editing Instructions
 
@@ -61,4 +61,4 @@ A mock up of a social media site using only React components. This site is not a
 ## Contact Information
 
 * _Contact Jo via [Email](mailto:joannadawnmiller@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jomillerde/), or check out her [Github](https://github.com/joanna-miller)._
-* _Contact Dani via [Email](mailto:danijrenner@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dani-renner/), or check out her [Github](https://github.com/dani-renner)._
+* _Contact Zack via [Email](mailto:thorgrim88@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zack-rutledge762/), or check out his [Github](https://github.com/dethik)._
