@@ -26,6 +26,8 @@
 
 A mock up of a merchandise site using only React components.
 
+Are you a Juggalo? Do you need four simple things before you die? If you answered yes to any of these questions, you've come to the right place! Peruse our selection of Faygo and dream of that sweet sweet refreshment. Whoop whoop, fam!
+
 ## Component Diagram
 
 <div><img src="src/img/component-diagram.png" width = 800></div>
